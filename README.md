@@ -1,6 +1,6 @@
 # NASA Space Apps Challenge Casablanca 2026 — Official Open Archive
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24450463.svg)](https://doi.org/10.5281/zenodo.24450463)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24460685.svg)](https://doi.org/10.5281/zenodo.24460685)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Event Window](https://img.shields.io/badge/Sprint-Nov_14--15,_2026-0B3D91.svg)](https://www.spaceappschallenge.org/2026/local-events/casablanca/)
 
@@ -10,7 +10,7 @@ Official open-science repository and empirical impact archive for the **2026 NAS
 
 ## 📄 Flagship Impact Monograph (`CASA-2026-IR-01`)
 * **Full Report (PDF):** [`report/Space_Apps_Casablanca_2026_Report_v1.0.pdf`](report/Space_Apps_Casablanca_2026_Report_v1.0.pdf)
-* **Permanent Archival DOI:** [https://doi.org/10.5281/zenodo.24450463](https://doi.org/10.5281/zenodo.24450463)
+* **Permanent Archival DOI:** [https://doi.org/10.5281/zenodo.24460685](https://doi.org/10.5281/zenodo.24460685)
 
 ---
 
@@ -28,7 +28,7 @@ Official open-science repository and empirical impact archive for the **2026 NAS
 
 ---
 
-## 🏆 Recommended Top 10 Global Nominees
+## 🏆 Official Top 10 Global Nominees
 
 | # | Team Name | Project Title | Challenge Domain | Core NASA Datasets & Stack |
 | :-: | :--- | :--- | :--- | :--- |
@@ -63,6 +63,6 @@ Official open-science repository and empirical impact archive for the **2026 NAS
   year        = {2026},
   month       = {November},
   number      = {CASA-2026-IR-01},
-  doi         = {10.5281/zenodo.24450463},
-  url         = {[https://github.com/SpaceApps-Casablanca-2026](https://github.com/SpaceApps-Casablanca-2026)}
+  doi         = {10.5281/zenodo.24460685},
+  url         = {[https://doi.org/10.5281/zenodo.24460685](https://doi.org/10.5281/zenodo.24460685)}
 }
