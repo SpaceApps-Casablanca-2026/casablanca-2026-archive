@@ -12,6 +12,11 @@ Official open-science repository and empirical impact archive for the **2026 NAS
 * **Full Report (PDF):** [`report/Space_Apps_Casablanca_2026_Report_v1.0.pdf`](report/Space_Apps_Casablanca_2026_Report_v1.0.pdf)
 * **Permanent Archival DOI:** [https://doi.org/10.5281/zenodo.24460685](https://doi.org/10.5281/zenodo.24460685)
 
+## 📄 Official Archival Publications (`CASA-2026-IR` Series)
+* **CASA-2026-IR-01 — Full Empirical Impact Monograph (PDF):** [`report/Space_Apps_Casablanca_2026_Report_v1.0.pdf`](report/Space_Apps_Casablanca_2026_Report_v1.0.pdf)
+* **CASA-2026-IR-03 — Top 10 Global Nominees Technical & Venture Dossier (PDF):** [`report/Top_10_Global_Nominees_Dossier_CASA-2026-IR-03.pdf`](report/Top_10_Global_Nominees_Dossier_CASA-2026-IR-03.pdf)
+* **Permanent Archival DOI (Zenodo / OpenAIRE):** [https://doi.org/10.5281/zenodo.24460685](https://doi.org/10.5281/zenodo.24460685)
+* 
 ---
 
 ## 📊 Key Empirical Metrics (November 14–15, 2026)
